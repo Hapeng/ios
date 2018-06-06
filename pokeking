@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pkking.test</string>
+				<string>com.pkking.pokerking</string>
 				<key>bundle-version</key>
 				<string>1.2.25</string>
 				<key>kind</key>
