@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ow.test</string>
+				<string>com.owapp.dev</string>
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>OW-APP</string>
+				<string>新部落先锋</string>
 			</dict>
 		</dict>
 	</array>
